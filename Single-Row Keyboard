@@ -1,0 +1,17 @@
+class Solution {
+	public int calculateTime(string keyboard, string word) {
+		vector<int> vec(26, 0);
+		int i = 0;
+		for(char ch:keyboard)
+			vec[ch-'a'] = i++;
+		
+		int steps = 0;
+		char prev = keyboard[0];
+		
+		for(char ch:word) {
+			steps += abs(vec[ch-'a'] - vec[prev-'a']);
+			prev = ch;
+		}
+		return steps;
+	}
+}
