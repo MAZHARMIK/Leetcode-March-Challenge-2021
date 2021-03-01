@@ -12,6 +12,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
 		</thead>
 		<tbody>
 			<tr>
+			  <td>Single-Row Keyboard</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-March-Challenge-2021/blob/main/Single-Row%20Keyboard"><img src="https://www.howtogeek.com/wp-content/uploads/2014/01/xcomputer-keyboard.jpg.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.0Jyo4VmM_R.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Distribute Candies</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-March-Challenge-2021/blob/main/Distribute%20Candies"><img src="https://i.pinimg.com/originals/35/9c/70/359c7053886974728c659eee24c9f621.jpg" width="400" height="240"></a>
 			  </td>
