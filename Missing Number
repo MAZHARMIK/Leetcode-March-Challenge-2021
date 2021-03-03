@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int missingNumber(vector<int>& nums) {
+        int sum = 0, zero = 0;
+        for(int x:nums) {
+            if(x == 0)
+                zero = 1;
+            sum +=x;
+        }
+        if(zero == 0) return 0;
+        
+        int n = nums.size();
+        if(n == 1)
+            return nums[0]==0?1:0;
+        
+        int expectedSum = n*(n+1)/2;
+        return expectedSum-sum;
+    }
+};
