@@ -28,7 +28,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
 			</tr>
 			<tr>
 			  <td>Missing Number</td>
-        <td><a href="https://github.com/MAZHARMIK/Leetcode-March-Challenge-2021/blob/main/Missing%20Number"><img src="https://clipground.com/images/missing-letter-clipart-4.jpg" width="400" height="240"></a>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Missing%20Number"><img src="https://clipground.com/images/missing-letter-clipart-4.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
 		</tbody>
