@@ -31,5 +31,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Missing%20Number"><img src="https://clipground.com/images/missing-letter-clipart-4.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Missing Number</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Intersection%20of%20Two%20Linked%20Lists"><img src="https://miro.medium.com/max/953/1*DnMUy7SEP31IRXq1zbMwWA.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
