@@ -41,5 +41,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Leetcode-March-Challenge-2021/blob/main/Average%20of%20Levels%20in%20Binary%20Tree"><img src="https://static.javatpoint.com/ds/images/binary-tree1.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Short Encoding of Words</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Trie/Short%20Encoding%20of%20Words"><img src="https://i1.wp.com/theoryofprogramming.com/wp-content/uploads/2015/06/trie12.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
