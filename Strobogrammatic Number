@@ -1,0 +1,27 @@
+/*
+    Company Tags  : Google, Amazon, Facebook, Apple
+    Leetcode Link : https://leetcode.com/problems/strobogrammatic-number/
+*/
+
+class Solution {
+public:
+    bool isStrobogrammatic(string num) {
+        int n = num.length();
+        int l = 0, r = n-1;
+        static map<char, char> mp;
+        mp['0'] = '0';
+        mp['1'] = '1';
+        mp['6'] = '9';
+        mp['8'] = '8';
+        mp['9'] = '9';
+        
+        while(l < r) {
+        	if(!mp.count(num[l]) || mp[l] != mp[r])
+        		return false;
+        	l++;
+        	r--;
+        }
+        
+        return true;
+    }
+};
