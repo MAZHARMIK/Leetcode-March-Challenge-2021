@@ -51,5 +51,15 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Design%20HashMap"><img src="https://www.decontextualize.com/wp-content/uploads/2009/02/hashtb082.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Strobogrammatic Number</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-March-Challenge-2021/blob/main/Strobogrammatic%20Number"><img src="https://www.w3resource.com/w3r_images/python-basic-1-image-exercise-17.png" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
+			  <td>Remove Palindromic Subsequences</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-March-Challenge-2021/blob/main/Remove%20Palindromic%20Subsequences"><img src="https://usdaynews.com/wp-content/uploads/2020/02/feb-2-palindrome-date.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
