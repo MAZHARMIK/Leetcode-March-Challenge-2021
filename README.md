@@ -46,5 +46,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Trie/Short%20Encoding%20of%20Words"><img src="https://i1.wp.com/theoryofprogramming.com/wp-content/uploads/2015/06/trie12.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Design HashMap</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Design%20HashMap"><img src="https://www.decontextualize.com/wp-content/uploads/2009/02/hashtb082.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
