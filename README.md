@@ -61,5 +61,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Leetcode-March-Challenge-2021/blob/main/Remove%20Palindromic%20Subsequences"><img src="https://usdaynews.com/wp-content/uploads/2020/02/feb-2-palindrome-date.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Remove Palindromic Subsequences</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Add%20One%20Row%20to%20Tree"><img src="https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/_images/BinArray.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
