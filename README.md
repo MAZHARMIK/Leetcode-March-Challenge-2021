@@ -72,7 +72,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
 			  </td>
 			</tr>
 			<tr>
-			  <td>Integer to Roman</td>
+			  <td>Coin Change</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Coin%20Change%20(Top%20Down%20Approach)"><img src="https://www.joelscoins.com/images/1000coinlot.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
