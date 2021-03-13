@@ -1,0 +1,28 @@
+typedef long long ll;
+class Solution {
+public:
+    unordered_set<int> st;
+    unordered_map<int, ll> mp;
+    ll solve(int x){
+        if (mp.count(x)) 
+            return mp[x];
+        ll cnt=1;
+        int j;
+        for (int i: st){
+            if (x%i != 0)
+                continue;
+            j = x/i;
+            if (st.count(j))
+                cnt += solve(i)*solve(j);
+        }
+        return mp[x]=cnt;
+    }
+    int numFactoredBinaryTrees(vector<int>& arr) {
+        st.insert(arr.begin(), arr.end());
+        ll ans=0;
+        for (auto x: st) {
+            ans += solve(x);
+        }
+        return int(ans % 1000000007);
+    }
+};
