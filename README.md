@@ -78,7 +78,7 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
 			</tr>
 			<tr>
 			  <td>Check If a String Contains All Binary Codes of Size K</td>
-        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K"><img src="https://cdn.tutsplus.com/photo/uploads/legacy/806_bitdepth/02.jpg" width="400" height="240"></a>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K"><img src="https://blog.penjee.com/wp-content/uploads/2015/03/binary-floating-point-binary-number-with-decimal-values.png" width="400" height="240"></a>
 			  </td>
 			</tr>
 		</tbody>
