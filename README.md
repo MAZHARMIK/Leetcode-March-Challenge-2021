@@ -81,5 +81,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Bit_Magic/Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K"><img src="https://blog.penjee.com/wp-content/uploads/2015/03/binary-floating-point-binary-number-with-decimal-values.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Binary Trees With Factors</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-March-Challenge-2021/blob/main/Binary%20Trees%20With%20Factors"><img src="https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/_images/BinArray.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
