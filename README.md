@@ -91,5 +91,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Swapping%20Nodes%20in%20a%20Linked%20List"><img src="https://www.thegoodwillpartnership.co.uk/wp-content/uploads/2016/08/Swap.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Encode and Decode TinyURL</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Encode%20and%20Decode%20TinyURL"><img src="https://cdn57.androidauthority.net/wp-content/uploads/2018/04/TinyURL.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
