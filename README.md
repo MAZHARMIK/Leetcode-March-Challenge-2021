@@ -92,6 +92,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
 			  </td>
 			</tr>
 			<tr>
+			  <td>Construct Binary Tree from String</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Construct%20Binary%20Tree%20from%20String"><img src="https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/_images/BinArray.png" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Encode and Decode TinyURL</td>
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Encode%20and%20Decode%20TinyURL"><img src="https://cdn57.androidauthority.net/wp-content/uploads/2018/04/TinyURL.jpg" width="400" height="240"></a>
 			  </td>
