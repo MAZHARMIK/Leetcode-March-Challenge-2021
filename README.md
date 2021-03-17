@@ -101,5 +101,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Encode%20and%20Decode%20TinyURL"><img src="https://cdn57.androidauthority.net/wp-content/uploads/2018/04/TinyURL.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Best Time to Buy and Sell Stock with Transaction Fee</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee"><img src="https://cdn.buttercms.com/0X7GqJ2ER4Sx9cQyaEtO" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
