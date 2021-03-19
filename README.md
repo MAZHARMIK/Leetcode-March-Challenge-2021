@@ -111,5 +111,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Generate%20Random%20Point%20in%20a%20Circle"><img src="https://www.kidsmathgamesonline.com/images/pictures/math680/circlebasics.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Wiggle Subsequence</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Wiggle%20Subsequence"><img src="https://wallpapertag.com/wallpaper/full/7/8/a/814197-zig-zag-wallpapers-2560x1440-hd-1080p.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
