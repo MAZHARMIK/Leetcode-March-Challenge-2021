@@ -126,5 +126,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Design%20Underground%20System"><img src="https://airqualitynews.com/wp-content/uploads/2018/04/london-underground.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Reordered Power of 2</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Reordered%20Power%20of%202"><img src="https://i.ytimg.com/vi/ej9KH8LDgzI/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
