@@ -1,0 +1,63 @@
+class Solution {
+public:
+    unordered_set<string> st;
+    unordered_map<string, string> lower_to_actual;
+    unordered_map<string, string> vowel_mp;
+
+    string getLower(string temp) {
+        transform(temp.begin(), temp.end(), temp.begin(),
+        [](unsigned char c){ return tolower(c); });
+        
+        return temp;
+    }
+    
+    string getVowelString(string temp) {
+        transform(temp.begin(), temp.end(), temp.begin(),
+        [](unsigned char c){ return (c=='a' || c=='e' || c=='i' || c=='o' || c=='u') ? '*' : c; });
+
+        return temp;
+    }
+    
+    string findWord(string query) {
+        //When the query exactly matches a word in the wordlist
+        if(st.count(query))
+            return query;
+        
+        //When the query matches a word up to capitlization
+        string lower = getLower(query);
+        if(lower_to_actual.count(lower))
+            return lower_to_actual[lower];
+        
+        //When the query matches a word up to vowel errors
+        string vowelString = getVowelString(lower);
+        if(vowel_mp.count(vowelString))
+            return vowel_mp[vowelString];
+        
+        return "";
+    }
+    
+    vector<string> spellchecker(vector<string>& wordlist, vector<string>& queries) {
+        vector<string> result;
+        lower_to_actual.clear();
+        vowel_mp.clear();
+        st.clear();
+        for(string word:wordlist) {
+            st.insert(word);
+            string temp = getLower(word);
+            //you should return the first such match in the wordlist.
+            if(!lower_to_actual.count(temp))
+                lower_to_actual[temp] = word;
+            
+            temp = getVowelString(temp);
+            //you should return the first such match in the wordlist.
+            if(!vowel_mp.count(temp))
+                vowel_mp[temp] = word;
+        }
+        
+        for(string query:queries) {
+            result.push_back(findWord(query));
+        }
+        
+        return result;
+    }
+};
