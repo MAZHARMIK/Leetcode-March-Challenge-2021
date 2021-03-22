@@ -132,6 +132,11 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
 			  </td>
 			</tr>
 			<tr>
+			  <td>Find Smallest Common Element in All Rows</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-March-Challenge-2021/blob/main/Find%20Smallest%20Common%20Element%20in%20All%20Rows"><img src="https://clipground.com/images/find-clipart-11.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Vowel Spellchecker</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-March-Challenge-2021/blob/main/Vowel%20Spellchecker"><img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2013/10/spell-check.jpg" width="400" height="240"></a>
 			  </td>
