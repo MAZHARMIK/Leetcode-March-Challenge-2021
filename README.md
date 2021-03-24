@@ -146,5 +146,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/3Sum%20With%20Multiplicity"><img src="https://miro.medium.com/max/4316/1*ZbqzK9gjMXpDq6tZEq74rA.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Advantage Shuffle</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-March-Challenge-2021/blob/main/Advantage%20Shuffle"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Shuffle%21_Logo.png/1200px-Shuffle%21_Logo.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
