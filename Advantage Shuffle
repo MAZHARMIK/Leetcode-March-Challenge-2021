@@ -1,0 +1,17 @@
+class Solution {
+public:
+    vector<int> advantageCount(vector<int>& A, vector<int>& B) {
+        multiset<int> st(begin(A), end(A));
+        int i = 0;
+        for(int x:B) {
+            auto p = st.upper_bound(x);
+            if(p == st.end())
+                p = st.begin();
+            
+            A[i++] = *p;
+            st.erase(p);
+        }
+        
+        return A;
+    }
+};
