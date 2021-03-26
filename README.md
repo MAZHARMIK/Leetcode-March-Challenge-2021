@@ -157,5 +157,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/DFS/Pacific%20Atlantic%20Water%20Flow"><img src="https://clipartsworld.com/images/cartoon-water-waves-png-7.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Word Subsets</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Word%20Subsets"><img src="https://www.tutorialspoint.com/cprogramming/images/string_representation.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
