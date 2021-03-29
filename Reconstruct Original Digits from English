@@ -1,0 +1,44 @@
+class Solution {
+public:
+    string originalDigits(string s) {
+        //one two three four five size seven eight nine 
+        vector<int> count(128);
+        for(char ch:s){
+            count[ch]++;
+        }
+        
+        vector<int> num(10);
+        //even numbers have unique letter, so make use of it
+        //zero  - 'z'
+        //two   - 'w'
+        //four  - 'u'
+        //six   - 'x'
+        //eight - 'g'
+        num[0] = count['z'];
+        num[2] = count['w'];
+        num[4] = count['u'];
+        num[6] = count['x'];
+        num[8] = count['g'];
+        
+        //If we ignore even number, odd numbers have unique characters as well
+        //one   - 'o'
+        //three - 'h'
+        //five  - 'f'
+        //seven - 's'
+        //nine  - NIL
+        num[1] = count['o']-num[0]-num[2]-num[4];  //because zero,two,four contains 'o' as well
+        num[3] = count['t']-num[2]-num[8]; //because tw0, eight has 't' as well           
+        num[5] = count['f']-num[4]; //because four has 'f' as well
+        num[7] = count['s']-num[6]; //because six has 's' as well
+        num[9] = count['i']-num[6]-num[8]-num[5]; //because six,eight,five has 'i' as well
+        
+        string result = "";
+        for(int i = 0; i<10; i++) {
+            for(int j = num[i]; j>0; j--) {
+                result += to_string(i);
+            }
+        }
+        
+        return result;
+    }
+};
