@@ -167,5 +167,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/5b40f5e5b51e097609125b0ba5e4bceed5d0b67f/DP/Palindromic%20Substrings"><img src="https://faculty.up.edu/ainan/palindrome_date_3102013_3.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Reconstruct Original Digits from English</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-March-Challenge-2021/blob/main/Reconstruct%20Original%20Digits%20from%20English"><img src="https://www.grandespymes.com.ar/wp-content/uploads/2017/04/123.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
