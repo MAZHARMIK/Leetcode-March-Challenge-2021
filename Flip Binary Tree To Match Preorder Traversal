@@ -1,0 +1,48 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    int index = 0;
+    void populate(TreeNode* root, vector<int>& voyage, vector<int>& result, int n) {
+        if(!root)
+            return;
+        
+        if(root->val != voyage[index++]) {
+            result = {-1};
+            return;
+        }
+        
+        if(index < n && root->left != NULL && root->left->val != voyage[index]) {
+                //if left value is not equal, go ahead with checking right value by moving 
+                //to right first and then left
+                //i.e. [1, 2, 3]   [1, 3, 2]
+                result.push_back(root->val);
+                populate(root->right,  voyage, result, n); //root->right is 3 and voyage will be at  = 3
+                populate(root->left, voyage, result, n);   ////root->left is 2 and voyage will be at = 2
+        } else {
+            //if the left value is equal, go ahead normally
+            populate(root->left, voyage, result, n);
+            populate(root->right,voyage, result, n);
+        }
+    }
+    vector<int> flipMatchVoyage(TreeNode* root, vector<int>& voyage) {
+        int index = 0;
+        int n = voyage.size();
+        
+        vector<int> result;
+        populate(root, voyage, result, n);
+        if (result.size() != 0 && result[0] == -1) {
+            result = {-1};
+        }
+        return result;
+    }
+};
