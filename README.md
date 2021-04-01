@@ -187,5 +187,10 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Russian%20Doll%20Envelopes"><img src="https://i.pinimg.com/originals/96/ef/ad/96efadfa382b3d009a84f9e3f485c85f.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Stamping The Sequence</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Stamping%20The%20Sequence"><img src="https://clipground.com/images/rubber-stamp-clipart-14.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
