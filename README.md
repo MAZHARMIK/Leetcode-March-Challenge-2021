@@ -192,15 +192,5 @@ Link to the contest : <a href="https://leetcode.com/explore/challenge/card/march
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Stamping%20The%20Sequence"><img src="https://clipground.com/images/rubber-stamp-clipart-14.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
-			<tr>
-			  <td>Design Circular Queue</td>
-        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Design%20Circular%20Queue"><img src="https://www.3pillarglobal.com/wp-content/uploads/2015/02/queue.jpg" width="400" height="240"></a>
-			  </td>
-			</tr>
-			<tr>
-			  <td>Global and Local Inversions</td>
-        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Global%20and%20Local%20Inversions"><img src="https://media.moddb.com/images/games/1/47/46850/Logo.png" width="400" height="240"></a>
-			  </td>
-			</tr>
 		</tbody>
 </table>
